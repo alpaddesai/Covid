@@ -1,0 +1,4 @@
+# Covid
+
+![image](CovidSymptoms.jpg)
+
